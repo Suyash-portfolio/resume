@@ -113,9 +113,9 @@ Driven by curiosity and innovation, I aspire to contribute to cutting-edge advan
 # 📫 Connect With Me
 
 📧 Email: **suyashhadole14@gmail.com**  
-💼 LinkedIn: **linkedin.com/in/suyashhadole**  
-🌐 Portfolio: **Coming Soon**  
-🐙 GitHub: **github.com/suyashhadole**
+💼 LinkedIn: **[linkedin.com/in/suyashhadole](https://www.linkedin.com/in/suyash-hadole/)**  
+🌐 Portfolio: **[github.com/Suyash-portfolio](https://suyash-portfolio.github.io/suyash-portfolio/)**  
+🐙 GitHub: **[github.com/suyashhadole](https://github.com/Suyash-portfolio)**
 
 ---
 
